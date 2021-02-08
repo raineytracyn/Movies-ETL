@@ -5,12 +5,4 @@
 * Deliverable 2: Extract and Transform the Wikipedia Data
 * Deliverable 3: Extract and Transform the Kaggle data
 * Deliverable 4: Create the Movie Database
-## Results:
 
-###### ![Retire_Per_Year](https://github.com/raineytracyn/Pewlett-Hackard-Analysis/blob/main/Images/Retire_Per_Year.png)
-
-###### ![HR_Errors](https://github.com/raineytracyn/Pewlett-Hackard-Analysis/blob/main/Images/HR_Errors.png)
-* 
-###### ![Average_Years_Job_Held](https://github.com/raineytracyn/Pewlett-Hackard-Analysis/blob/main/Images/Average_Years_Job_Held.png)
-## Summary:
-### 
